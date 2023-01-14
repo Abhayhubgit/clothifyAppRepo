@@ -29,7 +29,6 @@
   },
   "scripts": {
     "start": "react-app-rewired  start",
-   
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
